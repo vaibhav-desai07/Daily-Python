@@ -1,3 +1,6 @@
+# CONCEPTS
+# Strings, Lists & Tuples
+
 # Q1 Reverse a string
 s = input("Enter a string: ")
 rev = s[::-1]

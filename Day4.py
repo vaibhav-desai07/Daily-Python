@@ -1,3 +1,6 @@
+# CONCEPTS
+# Conditional Statements(If, Elif, Else, Nested Conditions) & Loops(For, While) & (Break, Continue & Pass)
+
 # Q1 Grade calculatoer based on marks
 marks = int(input("Enter your marks: "))
 if marks > 90:

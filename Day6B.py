@@ -1,3 +1,6 @@
+# CONCEPTS
+# Functions(Definition, Arguments, Return Values, Default & Keyword Arguments), Import, Buit-in Modules(Math, Random, Datetime), PIP
+
 # Q1 Function to check prime
 def is_prime(n):
     if n <= 1:

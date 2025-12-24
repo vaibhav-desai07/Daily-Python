@@ -1,3 +1,6 @@
+# CONCEPTS
+# Operators(Arithmetic, Relational, Logical) & Expressions
+
 # Q1 Calculator using user input
 
 # Q2 Check Even or Odd

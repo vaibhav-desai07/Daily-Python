@@ -1,3 +1,6 @@
+# CONCEPTS
+# Variables, Int, Float, Str, Bool, type() Function, Type Casting
+
 # Q1 Take user input and display its type
 x = input()
 print(type(x))

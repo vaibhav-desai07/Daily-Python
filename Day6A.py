@@ -1,3 +1,5 @@
+# CONCEPTS
+# Set
 # Q1 Word frequency calculator
 sentence = input("Enter a sentence: ")
 words = sentence.split()

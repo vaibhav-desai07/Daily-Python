@@ -1,3 +1,6 @@
+# CONCEPTS
+# What is Python ?, Use Cases (Web, AI, Automation, Devops), IDEs(VS Code...), Installing Python, First Program
+
 # Q1 A program
 print("Name - Vaibhav Desai")
 print("College - Jaypee Uni.")
